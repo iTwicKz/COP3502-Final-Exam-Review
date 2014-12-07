@@ -1,0 +1,41 @@
+/*
+		super and this keywords
+			what do they do, what do they mean, how to use them
+			
+		command line arguments
+			how to use String[] args array from main
+			
+		Concatentation
+			//a = 1, b = 2
+			print (a + "" + b);
+			
+		What is the output?/what is the final result of this block of code
+				
+		static methods and variables
+			what are they, what do they do
+			//instance method is just a regular method that belongs to a class
+			//instance variable is propertities of the class
+			write a static method, and try to access instance variacles and static methods
+			write an instance method, and try to access staic vvariavle and static methods
+			
+		== verse .equals
+		
+		Strings, and how they are immutable
+		
+		Creating a file object
+			Creating a scanner baseed off of that file object
+			Reading line by line of the file with the scanner
+			
+		Find max/min value in an array
+		
+		Sort an array -> DO NOT USE ARRAYS.SORT();
+			bubble sort
+			
+		Constructors
+			what are they used for
+			how do we make one
+		
+		
+
+
+*/
